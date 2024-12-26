@@ -1,0 +1,198 @@
+{
+  "defaultKeyWidth": 9.1,
+  "defaultKeyHeight": 45,
+  "defaultRowGap": 3.0,
+  "defaultKeyGap": 1.0,
+  "rows": [
+    {
+      "defaultKeyWidth": 7.4,
+      "keys": [
+        {
+          "label": "Es",
+          "keyCode": 111,
+          "isModifier": true
+        },
+        { "label": "1", "smallLabel": "|" },
+        { "label": "2", "smallLabel": "@" },
+        { "label": "3", "smallLabel": "#" },
+        { "label": "4", "smallLabel": "$" },
+        { "label": "5", "smallLabel": "%" },
+        { "label": "6", "smallLabel": "^" },
+        { "label": "7", "smallLabel": "&" },
+        { "label": "8", "smallLabel": "*" },
+        { "label": "9", "smallLabel": "«" },
+        { "label": "0", "smallLabel": "»" },
+        {
+          "label": "Del",
+          "keyCode": 112,
+          "isModifier": true,
+          "isRepeatable": true
+        }
+      ]
+    },
+    {
+      "defaultKeyWidth": 8.1,
+      "keys": [
+        {
+          "icon": "@drawable/ic_tab",
+          "keyCode": 61,
+          "isModifier": true,
+          "keyWidth": 13
+        },
+        { "label": "`", "smallLabel": "~" },
+        { "label": "<", "smallLabel": ">" },
+        { "label": "{", "smallLabel": "}" },
+        { "label": "[", "smallLabel": "]" },
+        { "label": "(", "smallLabel": ")" },
+        { "label": "/", "smallLabel": "\\" },
+        { "label": "-", "smallLabel": "_" },
+        { "label": "=", "smallLabel": "+" },
+        {
+          "icon": "@drawable/ic_backspace",
+          "keyCode": 67,
+          "isModifier": true,
+          "isRepeatable": true,
+          "keyWidth": 13
+        }
+      ]
+    },
+    {
+      "keys": [
+        { "label": "q" },
+        { "label": "w" },
+        { "label": "e" },
+        { "label": "r" },
+        { "label": "t" },
+        { "label": "y" },
+        { "label": "u" },
+        { "label": "i" },
+        { "label": "o" },
+        { "label": "p" }
+      ]
+    },
+    {
+      "keys": [
+        { "label": "a" },
+        { "label": "s" },
+        { "label": "d" },
+        { "label": "f" },
+        { "label": "g" },
+        { "label": "h" },
+        { "label": "j" },
+        { "label": "k" },
+        { "label": "l" },
+        { "label": "'", "smallLabel": "\"" }
+      ]
+    },
+    {
+      "keys": [
+        { "label": "z" },
+        { "label": "x" },
+        { "label": "c" },
+        { "label": "v" },
+        { "label": "b" },
+        { "label": "n" },
+        { "label": "m" },
+        { "label": "?", "smallLabel": "!" },
+        { "label": ".", "smallLabel": "," },
+        { "label": ":", "smallLabel": ";" }
+      ]
+    },
+    {
+      "keys": [
+        {
+          "label": "shf",
+          "keyCode": 59,
+          "smallLabel": "cap",
+          "keyCodeLongPress": 115,
+          "keyWidth": 11,
+          "isModifier": true
+        },
+        {
+          "label": "ctl",
+          "keyCode": 113,
+          "keyWidth": 11,
+          "isModifier": true
+        },
+        {
+          "label": "alt",
+          "keyCode": 57,
+          "keyWidth": 11,
+          "isModifier": true
+        },
+        {
+          "label": "⎵",
+          "keyCode": 62,
+          "keyWidth": 28,
+          "keyHeight": 93,
+          "isRepeatable": true
+        },
+        {
+          "icon": "@drawable/ic_emoji",
+          "keyCode": -1,
+          "keyWidth": 11,
+          "isModifier": true
+        },
+        {
+          "icon": "@drawable/ic_up_triangle_arrow",
+          "keyWidth": 11,
+          "keyCode": 19,
+          "isModifier": true,
+          "isRepeatable": true
+        },
+        {
+          "label": "Ent",
+          "keyCode": 66,
+          "keyWidth": 11,
+          "isModifier": true
+        }
+      ]
+    },
+    {
+      "keys": [
+        {
+          "icon": "@drawable/ic_anchor",
+          "keyCode": -12,
+          "keyWidth": 11,
+          "isModifier": true
+        },
+        {
+          "icon": "@drawable/ic_clipboard",
+          "keyCode": -1,
+          "keyWidth": 11,
+          "isModifier": true
+        },
+        {
+          "label": "en",
+          "smallLabel": "var",
+          "keyCode": -21,
+          "keyCodeLongPress": -1,
+          "keyWidth": 11,
+          "isModifier": true,
+          "keyGap": 30
+        },
+        {
+          "icon": "@drawable/ic_left_triangle_arrow",
+          "keyWidth": 11,
+          "keyCode": 21,
+          "isModifier": true,
+          "isRepeatable": true
+        },
+        {
+          "icon": "@drawable/ic_down_triangle_arrow",
+          "keyWidth": 11,
+          "keyCode": 20,
+          "isModifier": true,
+          "isRepeatable": true
+        },
+        {
+          "icon": "@drawable/ic_right_triangle_arrow",
+          "keyWidth": 11,
+          "keyCode": 22,
+          "isModifier": true,
+          "isRepeatable": true
+        }
+      ]
+    }
+  ]
+}
