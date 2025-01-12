@@ -157,7 +157,7 @@
         },
         {
           "icon": "@drawable/ic_clipboard",
-          "keyCode": -1,
+          "keyCode": -24,
           "keyWidth": 11,
           "isModifier": true
         },
